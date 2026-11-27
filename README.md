@@ -4,7 +4,8 @@ in this repository i will update my what things i have learnt in my particular D
 
 # learning
 
-Small daily exercises.
+
+
 
 | Folder | Topics |
 |---|---|
